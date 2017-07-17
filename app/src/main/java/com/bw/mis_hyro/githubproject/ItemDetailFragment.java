@@ -18,6 +18,7 @@ import com.bw.mis_hyro.githubproject.dummy.DummyContent;
  * on handsets.
  */
 public class ItemDetailFragment extends Fragment {
+    public  static  int anInt = 12;
     /**
      * The fragment argument representing the item ID that this fragment
      * represents.
